@@ -1,0 +1,50 @@
+body{
+	background-color: black;
+	color: gray;
+	border: 1px white solid;
+}
+
+main{
+	text-align: center;
+	width: 960px;
+	margin: auto;
+	border: 1px white dotted;
+}
+
+h1{
+	text-align: center;
+
+}
+
+ol{
+	text-align: center;
+	padding: auto;
+	margin: 30%;
+}
+
+li{
+	color: white;
+	padding-left: 5px;
+	margin-left: 5px;
+
+}
+
+form{
+	text-align: center;
+	display: inline;
+}
+
+input{
+	border-radius: 5px;
+	margin-bottom: 10%;
+}
+
+button{
+	display: inline;
+}
+
+#deleteButton{
+	display: inline;
+	border-radius: 5px;
+	margin-left: 10px;
+}
